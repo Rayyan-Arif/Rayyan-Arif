@@ -6,5 +6,5 @@ I build projects to learn, experiment, and turn ideas into real-world applicatio
 Tech I work with:
 C++ • Java • Web Development • DBMS
 
-Learning never stops—I keep building, improving, and pushing my limits.
+Learning never stops, I keep building, improving, and pushing my limits.
 Check out my repositories to see my journey (and yes, some questionable creativity along the way).
